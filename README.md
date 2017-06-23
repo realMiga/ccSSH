@@ -8,14 +8,14 @@
 <img src="/res/main.png">
 
 # Run Command
-<img src="/res/image/all_run1.png">
-<img src="/res/image/all_run2.png">
-<img src="/res/image/all_run3.png">
+<img src="/res/all_run1.png">
+<img src="/res/all_run2.png">
+<img src="/res/all_run3.png">
 
 # Upload File
-<img src="/res/image/upload1.png">
-<img src="/res/image/upload2.png">
+<img src="/res/upload1.png">
+<img src="/res/upload2.png">
 
 # Download File
-<img src="/res/image/download1.png">
-<img src="/res/image/download2.png">
+<img src="/res/download1.png">
+<img src="/res/download2.png">
